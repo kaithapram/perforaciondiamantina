@@ -1,0 +1,38 @@
+title: >
+    Perforacion Diamantina
+email: >
+    mcaperforaciones7@gmail.com
+description: >
+    MCA Perforaciones S.A.C. es una empresa peruana con más de 20 años de experiencia especializándose en brindar servicios de Empresas de Perforación diamantina para exploración minera, así como perforación geotécnica y ambiental, realizando sondajes, ensayos, muestreos de suelos e instalación de instrumentos geotécnicos.
+
+baseurl: "/"
+url: http://keralahost.in/perforaciondiamantina
+google_adsense: Your-adsense-code
+
+markdown: kramdown
+
+name: >
+    Perforacion Diamantina
+
+date: 2019-03-18 22:49:07 +0000
+permalink: /:year/:month/:day/:title
+
+logo: false
+sass:
+    load_paths:
+        - _sass
+        - bs
+paginate: 10
+adsid: ca-pub-8582082279264878
+domain_name: http://keralahost.in/perforaciondiamantina/
+google_analytics: UA-31XXXXXX-X
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+cover: >
+    
+author_image: >
+    
+
+author: >
+    perforaciondiamantina
